@@ -1,0 +1,10 @@
+C:\Users\ASUS\source\repos\activity\activity\bin\Debug\activity.exe.config
+C:\Users\ASUS\source\repos\activity\activity\bin\Debug\activity.exe
+C:\Users\ASUS\source\repos\activity\activity\bin\Debug\activity.pdb
+C:\Users\ASUS\source\repos\activity\activity\obj\Debug\activity.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\activity\activity\obj\Debug\activity.Form1.resources
+C:\Users\ASUS\source\repos\activity\activity\obj\Debug\activity.Properties.Resources.resources
+C:\Users\ASUS\source\repos\activity\activity\obj\Debug\activity.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\activity\activity\obj\Debug\activity.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\activity\activity\obj\Debug\activity.exe
+C:\Users\ASUS\source\repos\activity\activity\obj\Debug\activity.pdb
